@@ -9,7 +9,3 @@
 <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square"/>
 <img src="https://img.shields.io/badge/-Node.JS-339933?logo=node.js&logoColor=white&style=flat-square"/>
-
-## OpenSource contributions stats
-<img src="https://github-readme-stats.vercel.app/api?username=SamiKamal&show_icons=true&theme=tokyonight"/>
-
