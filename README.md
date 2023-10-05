@@ -1,6 +1,6 @@
 # Hey There 🙋‍♂️
 - 👋 Hi, I’m Sami Ibrahim
-- 👀 I’m a React Front-end Developer.
+- 👀 I’m a Software Engineer.
 - 📫 You can contact me at me@samii.dev or sami-dev@hotmail.com
 
 ## Technologies I'm using
